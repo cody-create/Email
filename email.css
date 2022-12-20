@@ -1,0 +1,14 @@
+button {
+    width: 55px;
+    height: 20px;
+}
+
+div {
+    padding: 5px;
+    margin: 1px;
+}
+
+input,
+textarea {
+    width: 99%;
+}
